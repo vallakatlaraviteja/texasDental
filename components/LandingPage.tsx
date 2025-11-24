@@ -54,11 +54,11 @@ const LandingPage: React.FC<LandingPageProps> = ({ onNavigate, onServiceClick })
         <div className="absolute inset-0 z-0">
            <div className="absolute inset-0 bg-slate-900/30 z-10"></div>
            <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent z-10"></div>
-           <img 
-              src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=2668&auto=format&fit=crop" 
-              alt="Smiling woman close up" 
-              className="w-full h-full object-cover animate-slow-zoom"
-           />
+<img 
+  src="https://images.unsplash.com/photo-1486308510493-cb941f6a3999?q=80&w=2000&auto=format&fit=crop" 
+  alt="Smiling dental patient" 
+  className="w-full h-full object-cover animate-slow-zoom"
+/>
         </div>
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-20 text-center text-white w-full pt-20">

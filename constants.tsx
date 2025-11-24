@@ -95,7 +95,7 @@ export const DOCTOR: Doctor = {
   role: "Plano Dental Care Team",
   bio: "Our team of friendly dentists, hygienists, and specialists provide exceptional, comprehensive dental care for patients of all ages, utilizing advanced technology and compassionate approaches.",
   credentials: ["Experienced Dentists", "Sedation Dentistry Experts", "Pediatric Dental Specialists"],
-  imageUrl: "https://via.placeholder.com/800x1000?text=Texas+Dental+Doctors"
+  imageUrl: "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=800&auto=format&fit=crop"
 };
 
 export const BEFORE_AFTER: BeforeAfter[] = [
@@ -103,15 +103,15 @@ export const BEFORE_AFTER: BeforeAfter[] = [
     id: '1',
     title: 'Smile Makeover',
     description: 'Restoring confidence with cosmetic dental treatments and smile makeovers.',
-    beforeImg: 'https://via.placeholder.com/600x400?text=Before+Texas+Dental',
-    afterImg: 'https://via.placeholder.com/600x400?text=After+Texas+Dental'
+    beforeImg: 'https://images.unsplash.com/photo-1607746882042-944635dfe10e?q=80&w=600&auto=format&fit=crop',
+    afterImg: 'https://images.unsplash.com/photo-1535914254981-b5012eebbd15?q=80&w=600&auto=format&fit=crop'
   },
   {
     id: '2',
     title: 'Dental Implants',
     description: 'Replacing missing teeth with secure, functional dental implants.',
-    beforeImg: 'https://via.placeholder.com/600x400?text=Before+Implants',
-    afterImg: 'https://via.placeholder.com/600x400?text=After+Implants'
+    beforeImg: 'https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?q=80&w=600&auto=format&fit=crop',
+    afterImg: 'https://images.unsplash.com/photo-1493238792000-8113da705763?q=80&w=600&auto=format&fit=crop'
   }
 ];
 
@@ -123,8 +123,8 @@ export const WHY_US = [
 ];
 
 export const GALLERY_IMAGES = [
-  "https://via.placeholder.com/600x400?text=Texas+Dental+Gallery+1",
-  "https://via.placeholder.com/600x400?text=Texas+Dental+Gallery+2",
-  "https://via.placeholder.com/600x400?text=Texas+Dental+Gallery+3",
-  "https://via.placeholder.com/600x400?text=Texas+Dental+Gallery+4"
+  "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=600&auto=format&fit=crop",
+  "https://images.unsplash.com/photo-1530915363991-479c95e51df7?q=80&w=600&auto=format&fit=crop",
+  "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=600&auto=format&fit=crop",
+  "https://images.unsplash.com/photo-1556228720-8acb9ec9dbc7?q=80&w=600&auto=format&fit=crop"
 ];
